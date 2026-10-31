@@ -1,6 +1,6 @@
 module ppm
 
-go 1.25
+go 1.25.0
 
 toolchain go1.25.1
 
@@ -57,7 +57,7 @@ require (
 	github.com/therootcompany/xz v1.0.1 // indirect
 	github.com/ulikunitz/xz v0.5.12 // indirect
 	go4.org v0.0.0-20230225012048-214862532bf5 // indirect
-	golang.org/x/net v0.44.0 // indirect
-	golang.org/x/text v0.29.0 // indirect
+	golang.org/x/net v0.55.0 // indirect
+	golang.org/x/text v0.37.0 // indirect
 	resty.dev/v3 v3.0.0-beta.2 // indirect
 )
